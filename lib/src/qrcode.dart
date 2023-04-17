@@ -6,7 +6,7 @@
  * See LICENSE for distribution and usage details.
  */
 
-import 'package:esc_pos_utils/src/commands.dart';
+import 'package:esc_pos_utils_refactor/esc_pos_utils_refactor.dart';
 import 'dart:convert';
 
 class QRSize {

@@ -14,4 +14,5 @@ export './src/enums.dart';
 export './src/pos_column.dart';
 export './src/pos_styles.dart';
 export './src/qrcode.dart';
+export './src/commands.dart';
 export './src/generator.dart';

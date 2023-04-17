@@ -1,3 +1,7 @@
+## [1.1.1]
+
+- Add emptyLines in cut mode
+
 ## [1.1.0]
 
 - Null-Safety
